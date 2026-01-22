@@ -36,7 +36,7 @@
       "version": "0.30.3"
     }
   ],
-  "builtin-baseline": "fe1cde61e971d53c9687cf9a46308f8f55da19fa",
+  "builtin-baseline": "66c0373dc7fca549e5803087b9487edfe3aca0a1",
   "vcpkg-configuration": {
     "overlay-ports": [
       "./dep/vcpkg-overlay-ports"
